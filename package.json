@@ -1,0 +1,24 @@
+{
+  "name": "ezproaccounting",
+  "version": "1.0.0",
+  "description": "Jon White MBA Accounting Marketing Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zedd45/ezproaccounting.com.git"
+  },
+  "keywords": [
+    "html5up",
+    "marketing",
+    "accounting"
+  ],
+  "author": "Chris Keen <christopher.keen@gmail.com> (http://keenwebconcepts.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zedd45/ezproaccounting.com/issues"
+  },
+  "homepage": "https://github.com/zedd45/ezproaccounting.com#readme"
+}
